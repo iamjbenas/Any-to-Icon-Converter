@@ -1,0 +1,15 @@
+c:\users\beñas\source\repos\Icon Converter\Icon Converter\bin\Debug\Icon Converter.exe.config
+c:\users\beñas\source\repos\Icon Converter\Icon Converter\bin\Debug\Icon Converter.exe
+c:\users\beñas\source\repos\Icon Converter\Icon Converter\bin\Debug\Icon Converter.pdb
+c:\users\beñas\source\repos\Icon Converter\Icon Converter\bin\Debug\Icon Converter.xml
+c:\users\beñas\source\repos\Icon Converter\Icon Converter\obj\Debug\Icon Converter.vbprojAssemblyReference.cache
+c:\users\beñas\source\repos\Icon Converter\Icon Converter\obj\Debug\Icon_Converter.Form1.resources
+c:\users\beñas\source\repos\Icon Converter\Icon Converter\obj\Debug\Icon_Converter.Resources.resources
+c:\users\beñas\source\repos\Icon Converter\Icon Converter\obj\Debug\Icon Converter.vbproj.GenerateResource.cache
+c:\users\beñas\source\repos\Icon Converter\Icon Converter\obj\Debug\Icon Converter.vbproj.CoreCompileInputs.cache
+c:\users\beñas\source\repos\Icon Converter\Icon Converter\obj\Debug\Icon Converter.exe
+c:\users\beñas\source\repos\Icon Converter\Icon Converter\obj\Debug\Icon Converter.xml
+c:\users\beñas\source\repos\Icon Converter\Icon Converter\obj\Debug\Icon Converter.pdb
+c:\users\beñas\source\repos\Icon Converter\Icon Converter\bin\Debug\FreeImageNET.dll
+c:\users\beñas\source\repos\Icon Converter\Icon Converter\obj\Debug\Icon Converter.vbproj.CopyComplete
+C:\Users\BEÑAS\source\repos\Icon Converter\Icon Converter\obj\Debug\Icon_Converter.Form2.resources
